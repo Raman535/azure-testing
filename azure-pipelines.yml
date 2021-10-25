@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  vmImage: ubuntu-latest
+  vmImage: personal-vm
 
 steps:
 - script: echo Hello, world!
